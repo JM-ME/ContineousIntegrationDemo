@@ -15,7 +15,7 @@ using System.Text;
 using Microsoft.VisualStudio.TestTools.UITesting.WinControls;
 
 
-namespace CodedUI_saurabh
+namespace HelloWorld
 {
     [CodedUITest]
     public class CodedUITest1
